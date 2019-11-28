@@ -1,0 +1,3 @@
+D:/Programming/projectC/update/validasi_input_angka/cmake-build-debug/CMakeFiles/validasi_input_angka.dir
+D:/Programming/projectC/update/validasi_input_angka/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/projectC/update/validasi_input_angka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
